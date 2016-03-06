@@ -2,7 +2,7 @@
   "name": "mindchecker",
   "version": "1.0.0",
   "description": "mental health app",
-  "main": "index.js",
+  "main": "server/server.js",
   "scripts": {
     "test": "test"
   },
