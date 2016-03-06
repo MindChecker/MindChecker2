@@ -1,5 +1,5 @@
 var http = require("http");
-var port = 8000;
+var port = process.env.PORT || 8000;
 var fs = require('fs');
 var handler = require('./handler.js');
 
