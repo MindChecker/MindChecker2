@@ -4,7 +4,8 @@
   "description": "mental health app",
   "main": "server/server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server/server.js"
   },
   "author": "",
   "license": "ISC"
